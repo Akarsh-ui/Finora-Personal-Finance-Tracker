@@ -1,0 +1,6 @@
+{
+  "name": "Finora - Personal Finance Tracker",
+  "description": "A modern, professional personal finance management dashboard for tracking income, expenses, budgets, and financial health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
