@@ -434,7 +434,7 @@ The application requires environment configuration for MongoDB connectivity, JWT
 
    # MongoDB Atlas Connection URI
    # Format: mongodb+srv://<username>:<password>@<cluster>.mongodb.net/<database>?retryWrites=true&w=majority
-   MONGODB_URI=mongodb+srv://your_username:your_password@cluster0.mongodb.net/finora?retryWrites=true&w=majority
+   MONGODB_URI=MONGODB_URI=mongodb+srv://<username>:<password>@<your-cluster-url>/finora
 
    # Database Name
    DB_NAME=finora
