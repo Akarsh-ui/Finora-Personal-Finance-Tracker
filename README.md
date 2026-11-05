@@ -6,9 +6,7 @@ A modern, full-stack personal wealth management and financial intelligence platf
 
 ### 🚀 Live Demo
 
-[🚀 Live Demo](YOUR_DEPLOYMENT_URL_HERE)
-
-> **Note:** Click the link above to view the deployed application. Replace `YOUR_DEPLOYMENT_URL_HERE` with your production deployment URL.
+[🚀 Live Demo](https://finora-personal-finance-tracker-nqi3.onrender.com)
 
 ---
 
@@ -147,9 +145,6 @@ Behavioral economics research demonstrates that the primary reason personal budg
 ---
 
 ## 5. Application Screenshots & Feature Walkthrough
-
-> **📸 Note for Reviewers & Evaluators:**  
-> The screenshots below represent the rendered user interface of the running Finora application. Save your genuine screenshots captured from the running preview into the `screenshots/` directory using the filenames indicated below.
 
 ---
 
